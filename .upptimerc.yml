@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wildesoft.net
     url: https://www.wildesoft.net
+  - name: MW Search
+    url: https://nop-live3.mw.wildesoft.net/search?q=blACK&cid=0&advs=false&isc=false&sid=false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
