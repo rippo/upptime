@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Wildesoft.net
+    url: https://www.wildesoft.net
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
