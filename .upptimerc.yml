@@ -9,12 +9,14 @@ sites:
     url: https://www.wildesoft.net
   - name: MW Search
     url: https://nop-live3.mw.wildesoft.net/search?q=blACK&cid=0&advs=false&isc=false&sid=false
+  - name: Meal Analyser
+    url: https://www.mealanalyser.com/demo-meals
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: https://rippo.github.io/upptime/
+  baseUrl: /upptime/
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
